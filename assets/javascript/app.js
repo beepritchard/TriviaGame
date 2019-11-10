@@ -28,7 +28,7 @@ $(document).ready(function () {
             question: "What pets do more families own?", 
             choice: ["Birds", "Cats", "Dogs", "Horses" ],
             answer: 2,
-            photo: "assets/images/noodle.jpg"
+            photo: "assets/images/noodle.JPG"
         }, 
         {
             question: "How much weight can an elephant lift with its trunk?", 
