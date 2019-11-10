@@ -7,4 +7,4 @@ After 5 questions, total score will be displayed and the reset button to start t
 
 ### Link:
 
-https://beepritchard.github.io/TriviaGame
+https://beepritchard.github.io/TriviaGame/
