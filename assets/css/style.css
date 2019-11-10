@@ -1,0 +1,68 @@
+.answerchoice {
+  border-radius: 5%;
+	width: 40%;
+	color: black;
+  text-align: center;
+  margin: 5px auto;
+  font-size: 15px;
+  background-color: white;
+
+}
+
+img {
+  max-height: 250px;
+  width: auto;
+}
+
+#answergroup {
+  text-align: center;
+
+}
+
+#questiongroup {
+  text-align: center;
+  font-weight: bold;
+}
+
+#reset {
+  visibility: visible;
+}
+
+body {
+  background-image: url("../images/safari.jpg");
+  background-size: cover;
+ 
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  padding: 30px;
+  font-size: 45px;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color:navy;
+  font-size: 20px;
+}
+
+h2, h4 {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.container {
+  margin: 10px auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 550px;
+  width: 70%;
+  text-align: center;
+}
+
+.btn {
+  position: relative;
+  bottom: -100px;
+}
