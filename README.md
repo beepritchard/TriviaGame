@@ -9,10 +9,10 @@ After 6 questions, total score will be displayed and the reset button to start t
 How to understand and use setInterval method correctly
 
 ## How to solve it:
-
+By setting setInterval and using function to decrement runTimer function by 1000 milisecond
 
 ## Technical approach:
-
+By using SetInterval and clearInterval method 
 
 ## Link:
 
